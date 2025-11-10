@@ -1,0 +1,29 @@
+.intro {
+    text-align: center;
+    font-family: Snell Roundhand, cursive;
+    font-size: 200px;
+    margin-bottom: 0;
+    margin-top: 100px;
+}
+
+.continue-intro {
+    text-align: center;
+    font-family: Snell Roundhand, cursive;
+    font-size: 50px;
+    margin-top: 0;
+}
+
+.start-here {
+    text-align: center
+    font-family: Snell Roundhand, cursive;
+    font-size: 20px;
+}
+
+.character {
+    border-style: dashed;
+    border-color: #9f1b33;
+    border-width: 5px;
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: #bb4f63;
+}
