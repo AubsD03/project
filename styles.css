@@ -47,12 +47,8 @@ html {
     background-size: 150px 150px;
 }
 
-.character:hover {
-    
-}
-
 .menu {
-    background-image: url(images/tumblr_724edc84b7eedd5860ec497847bfaaa5_bbe3dab6_500.gif);
+    background-image: url();
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
