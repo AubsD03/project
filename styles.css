@@ -1,3 +1,7 @@
+html {
+    background-color: #9e7697;
+}
+
 .intro {
     text-align: center;
     font-family: Snell Roundhand, cursive;
@@ -13,17 +17,43 @@
     margin-top: 0;
 }
 
+.main {
+    text-align: center;
+}
+
 .start-here {
-    text-align: center
     font-family: Snell Roundhand, cursive;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .character {
-    border-style: dashed;
-    border-color: #9f1b33;
-    border-width: 5px;
-    padding: 10px;
-    margin-bottom: 30px;
     background-color: #bb4f63;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center, space-evenly;
+    
+}
+
+.binx {
+    background-image: url(images/binxy.jpg);
+    border: 5px solid black;
+    width: 150px;
+    height: 150px;
+    background-size: 150px 150px;
+}
+
+.binx:hover {
+    background-image: url(images/Screenshot_20251106_125414_Messages.jpg);
+    background-size: 150px 150px;
+}
+
+.character:hover {
+    
+}
+
+.menu {
+    background-image: url(images/tumblr_724edc84b7eedd5860ec497847bfaaa5_bbe3dab6_500.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
